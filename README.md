@@ -1,7 +1,7 @@
 # Hola!
 
 ## Mi nombre es Ale Panozo (legajo 176.553-0)
-- Tengo 25 años, dos gatos y un perro
+- Tengo 25 años, dos gatos y una perra (sus nombres son Milo, Chimu y Sofia)
 - Vivo en Villa Madero
 - Me gustan las preguntas y probar cosas nuevas
 - mi amor es el mar (?
